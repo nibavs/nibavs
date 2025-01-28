@@ -18,7 +18,7 @@
 
 ## 📫 Let's Connect
 - GitHub: [https://github.com/nibavs](https://github.com/nibavs) 
-- Email: [nbavsunovsky@gmail.com](#)
+- Email: [nbavsunovsky@gmail.com](nbavsunovsky@gmail.com)
 
 ---
 
