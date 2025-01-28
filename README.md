@@ -24,5 +24,4 @@
 
 ## 🌱 Goals
 - Master full-stack development  
-- Contribute to open-source projects  
 - Build scalable and user-friendly applications  
