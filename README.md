@@ -1,23 +1,37 @@
-## Hi there 👋
+# 👋 Hi there! I'm [Your Name]  
 
-I'm a student from NSTU. Wanna be fullstack dev.
--Java
--Spring
--PostgreSQL
--JavaScript
--React
+🎓 Student at NSTU  
+🌟 Aspiring Full-Stack Developer  
 
-<!--
-**nibavs/nibavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+### Backend
+- **Java**: Core programming language for backend development  
+- **Spring Framework**: Creating robust and scalable applications  
+- **PostgreSQL**: Database management for reliable data storage  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend
+- **JavaScript**: Frontend scripting and interactivity  
+- **React**: Building dynamic and responsive user interfaces  
+
+---
+
+## 🌱 Goals
+- Master full-stack development  
+- Contribute to open-source projects  
+- Build scalable and user-friendly applications  
+
+---
+
+## 📫 Let's Connect
+- GitHub: [Your GitHub Profile](#)  
+- LinkedIn: [Your LinkedIn Profile](#)  
+- Email: [Your Email Address](#)
+
+---
+
+## 📷 Adding Images to Markdown  
+To include images in a Markdown file, use the following syntax:  
+```markdown
+![Alt Text](image-url-or-path "Optional Title")
