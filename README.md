@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm a student from NSTU. Wanna be fullstack dev.
+-Java
+-Spring
+-PostgreSQL
+-JavaScript
+-React
+
 <!--
 **nibavs/nibavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
