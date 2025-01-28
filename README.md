@@ -1,5 +1,4 @@
-# 👋 Hi there! I'm [Your Name]  
-
+# 👋 Hi there! I'm Nikita
 🎓 Student at NSTU  
 🌟 Aspiring Full-Stack Developer  
 
@@ -17,21 +16,13 @@
 
 ---
 
+## 📫 Let's Connect
+- GitHub: [https://github.com/nibavs](https://github.com/nibavs) 
+- Email: [nbavsunovsky@gmail.com](#)
+
+---
+
 ## 🌱 Goals
 - Master full-stack development  
 - Contribute to open-source projects  
 - Build scalable and user-friendly applications  
-
----
-
-## 📫 Let's Connect
-- GitHub: [Your GitHub Profile](#)  
-- LinkedIn: [Your LinkedIn Profile](#)  
-- Email: [Your Email Address](#)
-
----
-
-## 📷 Adding Images to Markdown  
-To include images in a Markdown file, use the following syntax:  
-```markdown
-![Alt Text](image-url-or-path "Optional Title")
