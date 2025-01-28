@@ -2,7 +2,6 @@
 🎓 Student at NSTU  
 🌟 Aspiring Full-Stack Developer  
 
----
 
 ## 🛠️ Tech Stack
 ### Backend
